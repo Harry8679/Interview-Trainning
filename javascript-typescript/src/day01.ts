@@ -1,0 +1,1 @@
+const message : string = "Interview Training - Day 1";
